@@ -416,6 +416,13 @@ html, body {
     color: #fff;
 }
 
+.portfolio-item-info h3 {
+    margin: 0 0 20px;
+    font-weight: 700;
+    color: #fff;
+    font-size: 20px;
+}
+
 .portfolio-item-info a {
     padding: 6px 7px 4px;
     font-size: 12px;
